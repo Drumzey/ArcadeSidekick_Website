@@ -124,7 +124,7 @@ video::-webkit-media-controls {
 
 .cd-slider-nav ul li {
   display: inline-block;
-  margin: 80px 40px;
+  margin: 60px 20px;
 }
 
 .cd-slider-nav ul li a {
@@ -132,7 +132,7 @@ video::-webkit-media-controls {
 }
 
 .cd-slider-nav ul li h6 {
-  font-size: 14px;
+  font-size: 12px;
   text-transform: uppercase;
   text-align: center;
   font-weight: 400;

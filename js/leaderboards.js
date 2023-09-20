@@ -99,7 +99,7 @@ function DisplayAllScores(sortable) {
 	var old_tbody = document.getElementById('scoreTableBody');
 	old_tbody.parentNode.replaceChild(new_tbody, old_tbody)
 
-	var imagesrc = "img/banners/maze/" + currentGameName.replace(/_/g, ' ') + ".png";
+	var imagesrc = "img/banners/all/" + currentGameName.replace(/_/g, ' ') + ".png";
 	$('#leaderboardMarquee').attr("src", imagesrc);      
 
     var positionArray = [];
